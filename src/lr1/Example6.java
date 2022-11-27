@@ -13,6 +13,6 @@ public class Example6 {
          soname = in.nextLine();
         System.out.println("Введите отчество");
          second_name = in.nextLine();
-        System.out.println("Ваше ФИО: "+soname.toUpperCase(Locale.ROOT)+" "+name.toUpperCase(Locale.ROOT)+" "+second_name.toUpperCase(Locale.ROOT));
+        System.out.println("Hello "+soname.toUpperCase(Locale.ROOT)+" "+name.toUpperCase(Locale.ROOT)+" "+second_name.toUpperCase(Locale.ROOT));
     }
 }
